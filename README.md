@@ -43,7 +43,7 @@ Begin your Kubernetes journey by tackling Day 1 and progressing through the road
 
 ## 📢 Spread the Word
 
-Share your journey with your network and tag me, [Carole Kengne](www.linkedin.com/in/carole-pegui-kengne-671186183), when you post your blogs on LinkedIn. Let's learn together!
+Share your journey with your network and tag me, [Carole](www.linkedin.com/in/carole-pegui-kengne-671186183), when you post your blogs on LinkedIn. Let's learn together!
 
 
 Happy learning and blogging! 🌟
